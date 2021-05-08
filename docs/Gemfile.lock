@@ -262,7 +262,7 @@ PLATFORMS
   arm64-darwin-20
 
 DEPENDENCIES
-  github-pages (~> 214)
+  github-pages
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   tzinfo (~> 1.2)
