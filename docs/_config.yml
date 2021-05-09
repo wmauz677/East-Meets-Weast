@@ -21,8 +21,7 @@
 title: East Meets Weast
 email: wmmauz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog documenting my time in Taiwan as an Engineer for Taiwan Semiconductor
-  Manufacturing Company
+  Depictions of a Taiwanese Engineering Assignment
 baseurl: /
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wmauz677
