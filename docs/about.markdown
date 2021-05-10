@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Weston Mauz and I am from Golden, Colorado, in the United States of America. As of April 5, 2021, I am embarking on an engineering assignment in Tainan, Taiwan for the next 18 months with Taiwan Semiconductor Manufacturing Company (TSMC).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This blog will be a representation of what I see, experience, and learn while in the East. I will not glamorize the experience, nor display this time as fantasy. I intend to keep these depictions raw and unfiltered.
