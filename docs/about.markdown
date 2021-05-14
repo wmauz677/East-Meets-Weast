@@ -12,5 +12,6 @@ This blog will be a representation of what I see, experience, and learn while in
 
  <!-- ![Me - 2020](assets/vector-graphics/me.svg#main) -->
   ![Me - 2020](assets/images/me-reduced.jpg#main)
+  *Weston Mauz (Weast) <br> Winter Park, CO - 2020*
 
 I look forward to sharing my experience with you.

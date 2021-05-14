@@ -55,6 +55,10 @@ main {
  * Images
  */
 
+em {
+  text-align: center;
+}
+
 img {
   max-width: 100%;
   vertical-align: middle;
@@ -76,7 +80,7 @@ img[src*="#full"] {
   width:100%;
 
   em {
-    font-size: $small-font-size
+    font-size: $small-font-size;
   }
 }
 
