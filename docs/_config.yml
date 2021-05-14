@@ -22,8 +22,8 @@ title: East Meets Weast
 email: wmmauz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Depictions of a Taiwanese Engineering Assignment
-baseurl: /
-url: 
+baseurl: "https://wmauz677.github.io/East-Meets-Weast/"
+url:
 github_username:  wmauz677
 author: Weston Mauz
 # instagram_username: weston_mauz
