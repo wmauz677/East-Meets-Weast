@@ -69,6 +69,17 @@ img[src*="#main"] {
   // height:100px;
 }
 
+img[src*="#full"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:100%;
+
+  em {
+    font-size: $small-font-size
+  }
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -76,6 +87,17 @@ img[src*="#main"] {
   width: 50%;
 }
 
+img + em {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  font-size: $small-font-size
+}
+
+// em {
+//   font-size: $small-font-size
+// }
 
 
 /**
