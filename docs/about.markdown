@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name is Weston Mauz and I am from Golden, Colorado, in the United States of America. On May 5, 2021, I embarked on an 18-month engineering assignment in Tainan, Taiwan with Taiwan Semiconductor Manufacturing Company (TSMC).
+Hello, my name is Weston Mauz, though most of my friends call me Weast (pronounced 'east' with a 'w'). I am a mechanical engineer / software developer from Golden, Colorado, U.S.A. 
+
+On May 5, 2021, I embarked on an 18-month engineering assignment in Taiwan with Taiwan Semiconductor Manufacturing Company (TSMC). I will be stationed in the city of Tainan, where I will be trained to learn the most modern process of semiconductor manufacturing.
 
 This blog will be a representation of what I see, experience, and learn while in the East. I will not glamorize the experience, nor display this time as fantasy. I intend to keep these depictions raw and unfiltered.
 
